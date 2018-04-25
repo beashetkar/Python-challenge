@@ -37,13 +37,13 @@ The task is to analyze the votes and give the following information:
 
 Convert and export the data to use the following format:
 
-Emp ID,First Name,Last Name,DOB,SSN,State
+- Emp ID,First Name,Last Name,DOB,SSN,State
 
-214,Sarah,Simpson,12/04/1985,***-**-8166,FL
+- 214,Sarah,Simpson,12/04/1985,***-**-8166,FL
 
-15,Samantha,Lara,09/08/1993,***-**-7526,CO
+- 15,Samantha,Lara,09/08/1993,***-**-7526,CO
 
-411,Stacy,Charles,12/20/1957,***-**-8526,PA
+- 411,Stacy,Charles,12/20/1957,***-**-8526,PA
 
 In summary, the required conversions are as follows:
 
